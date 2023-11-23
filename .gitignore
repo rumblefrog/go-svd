@@ -19,3 +19,6 @@
 
 # Go workspace file
 go.work
+
+# Dan output
+test/out.wav
